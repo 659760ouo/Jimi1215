@@ -1,0 +1,41 @@
+* {
+    margin: 1;
+    padding: 1px;
+
+}
+
+body {
+    background-image: url(img/color.jpg);
+    background-repeat: no-repeat;
+    /* background-size: 100% 300px; */
+    
+}
+
+
+
+.link-but {
+    margin: 20px;
+    font-size: 20px;
+   
+
+
+}
+
+iframe {
+    width: 500px;
+    height: 800px;
+    background-color: transparent;
+    
+    
+}
+
+.iframe-container {
+    display: flex;
+
+}
+
+.frame-loc {
+    position: absolute;
+    top: 200px;
+    left: -60px;
+}
