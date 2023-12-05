@@ -39,3 +39,10 @@ iframe {
     top: 200px;
     left: -60px;
 }
+
+.nav-item {
+    font-size: 80px;
+}
+
+.nav-brand {
+    font-size: 80px;
